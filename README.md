@@ -1,7 +1,7 @@
 Hi ! My name is Sathwik G M
 ===================================================================================================================================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
 I'm a Fullstack developer
