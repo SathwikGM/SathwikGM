@@ -4,7 +4,7 @@ Hi ! My name is Sathwik G M
 Frontend Developer
 ------------------
 
-I'm a frontend developer
+I'm a Fullstack developer
 
 * 🌍  I'm based in Karnataka
 * ✉️  You can contact me at [sathwik140397@gmail.com](mailto:sathwik140397@gmail.com)
