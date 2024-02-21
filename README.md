@@ -4,12 +4,6 @@ Hi ! My name is Sathwik G M
 MERN stack Developer
 ------------------
 
-I'm a Fullstack developer
-
-* 🌍  I'm based in Karnataka
-* ✉️  You can contact me at [sathwik140397@gmail.com](mailto:sathwik140397@gmail.com)
-* 🧠  Currently learning Redux
-* ⚡  I'm Ironman
 
 <a href="https://www.github.com/SathwikGM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SathwikGM?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
